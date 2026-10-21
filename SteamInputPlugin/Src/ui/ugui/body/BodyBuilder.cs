@@ -1,11 +1,11 @@
 using UnityEngine;
 using UnityEngine.UI;
-using com.github.lhervier.ksp.steaminput.ui.ugui.body.cheatsheet;
-using com.github.lhervier.ksp.steaminput.ui.ugui.body.settings;
+using com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.cheatsheet;
+using com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.settings;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.scrollableview;
 
-namespace com.github.lhervier.ksp.steaminput.ui.ugui.body
+namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body
 {
     /// <summary>
     /// Body of the popup (below the title bar). Hosts the two switchable views — the scrollable cheat

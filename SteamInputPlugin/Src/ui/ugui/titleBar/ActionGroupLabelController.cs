@@ -1,9 +1,9 @@
 using UnityEngine;
-using com.github.lhervier.ksp.steaminput.ui.ugui.sprites;
+using com.github.lhervier.ksp.mod.steaminput.ui.ugui.sprites;
 using com.github.lhervier.ksp.shared.ugui.badge;
 using com.github.lhervier.ksp.shared.ugui.styles;
 
-namespace com.github.lhervier.ksp.steaminput.ui.ugui.titleBar
+namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.titleBar
 {
     /// <summary>
     /// Pushes the action group label from the ViewModel into a text component.

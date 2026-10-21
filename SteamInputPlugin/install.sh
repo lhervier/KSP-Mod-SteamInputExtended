@@ -4,5 +4,5 @@
 # of the repo is installed separately (install-config.* at the repo root).
 set -euo pipefail
 cd "$(dirname "${BASH_SOURCE[0]}")"
-export MOD_NAME="SteamInputMod"
+export MOD_NAME="KSPModSteamInput"
 exec bash KSP-Shared/tools/install.sh

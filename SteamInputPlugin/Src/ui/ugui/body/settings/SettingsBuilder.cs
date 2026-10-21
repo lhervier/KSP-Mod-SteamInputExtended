@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using com.github.lhervier.ksp.steaminput.ui.styles;
+using com.github.lhervier.ksp.mod.steaminput.ui.styles;
 using com.github.lhervier.ksp.shared.ugui.styles;
 using com.github.lhervier.ksp.shared.ugui.sprites;
 using com.github.lhervier.ksp.shared.ugui.button;
@@ -9,7 +9,7 @@ using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui.combo;
 
-namespace com.github.lhervier.ksp.steaminput.ui.ugui.body.settings
+namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.settings
 {
     /// <summary>
     /// The settings screen shown in place of the cheat sheet (see BodyBuilder.OnShowSettings).

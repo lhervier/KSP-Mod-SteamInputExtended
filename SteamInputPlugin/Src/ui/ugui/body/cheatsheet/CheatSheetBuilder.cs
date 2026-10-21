@@ -1,10 +1,10 @@
 using UnityEngine;
 using UnityEngine.UI;
 using com.github.lhervier.ksp.shared.ugui;
-using com.github.lhervier.ksp.steaminput.ui.ugui.body.selector;
-using com.github.lhervier.ksp.steaminput.ui.ugui.body.zones;
+using com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.selector;
+using com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.zones;
 
-namespace com.github.lhervier.ksp.steaminput.ui.ugui.body.cheatsheet
+namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.cheatsheet
 {
     /// <summary>
     /// The cheat-sheet view shown in the scrollable body: the config selector on top, then the list of

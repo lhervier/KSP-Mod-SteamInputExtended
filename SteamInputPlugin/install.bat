@@ -4,6 +4,6 @@ REM in KSP-Shared\tools (backs up and restores PluginData). The controller-confi
 REM side of the repo is installed separately (install-config.* at the repo root).
 setlocal
 cd /d "%~dp0"
-set "MOD_NAME=SteamInputMod"
+set "MOD_NAME=KSPModSteamInput"
 call "KSP-Shared\tools\install.bat"
 exit /b %errorlevel%

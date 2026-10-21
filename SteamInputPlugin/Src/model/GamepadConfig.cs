@@ -1,4 +1,4 @@
-namespace com.github.lhervier.ksp.steaminput.model
+namespace com.github.lhervier.ksp.mod.steaminput.model
 {
     /// <summary>
     /// An exported controller configuration available in the Steam config folder.

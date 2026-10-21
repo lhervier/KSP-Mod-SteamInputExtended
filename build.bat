@@ -38,7 +38,7 @@ if errorlevel 1 (
     echo ERROR: Failed to build plugin
     exit /b 1
 )
-copy /y "SteamInputPlugin\Release\SteamInputMod.zip" "Release\"
+copy /y "SteamInputPlugin\Release\KSPModSteamInput.zip" "Release\"
 if errorlevel 1 (
     echo ERROR: Failed to copy plugin zip into Release
     exit /b 1

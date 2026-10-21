@@ -5,9 +5,9 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.Linq;
 using UnityEngine.SceneManagement;
-using com.github.lhervier.ksp.steaminput.model;
+using com.github.lhervier.ksp.mod.steaminput.model;
 
-namespace com.github.lhervier.ksp.steaminput 
+namespace com.github.lhervier.ksp.mod.steaminput 
 {
     public abstract class BaseContextDaemon : MonoBehaviour {
 

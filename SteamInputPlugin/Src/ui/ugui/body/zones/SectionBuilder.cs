@@ -1,13 +1,13 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using com.github.lhervier.ksp.steaminput.ui.styles;
-using com.github.lhervier.ksp.steaminput.ui.model;
+using com.github.lhervier.ksp.mod.steaminput.ui.styles;
+using com.github.lhervier.ksp.mod.steaminput.ui.model;
 using com.github.lhervier.ksp.shared.ugui.styles;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared;
 
-namespace com.github.lhervier.ksp.steaminput.ui.ugui.body.zones
+namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.zones
 {
     /// <summary>
     /// Displays one section of a zone body:

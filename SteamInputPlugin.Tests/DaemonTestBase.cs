@@ -2,11 +2,11 @@ using System;
 using System.Reflection;
 using System.Runtime.Serialization;
 using com.github.lhervier.ksp.shared;
-using com.github.lhervier.ksp.steaminput.Vdf;
+using com.github.lhervier.ksp.mod.steaminput.Vdf;
 using NUnit.Framework;
 using UnityEngine;
 
-namespace com.github.lhervier.ksp.steaminput.Tests
+namespace com.github.lhervier.ksp.mod.steaminput.Tests
 {
     /// <summary>
     /// Base class for tests that drive a <see cref="GamepadConfigDaemon"/> from a VDF string.

@@ -1,10 +1,10 @@
 using System.Collections.Generic;
-using com.github.lhervier.ksp.steaminput.ui.model;
+using com.github.lhervier.ksp.mod.steaminput.ui.model;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui.button;
 using com.github.lhervier.ksp.shared.ugui.combo;
 
-namespace com.github.lhervier.ksp.steaminput.ui.ugui.body.selector
+namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.selector
 {
     /// <summary>
     /// Adapter between the config ViewModel and a shared ComboController: maps the available configs

@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-echo "Test de compilation du mod KSP SteamInputMod sur Ubuntu"
+echo "Test de compilation du mod KSP KSPModSteamInput sur Ubuntu"
 echo ""
 
 # Test de la partie configuration VDF (qui ne nécessite pas KSPDIR)
@@ -54,10 +54,10 @@ else
 fi
 
 echo "Vérification du fichier projet..."
-if [ -f "SteamInputPlugin/SteamInput.csproj" ]; then
-    echo "✓ Fichier SteamInputPlugin/SteamInput.csproj trouvé"
+if [ -f "SteamInputPlugin/KSPModSteamInput.csproj" ]; then
+    echo "✓ Fichier SteamInputPlugin/KSPModSteamInput.csproj trouvé"
 else
-    echo "✗ Fichier SteamInputPlugin/SteamInput.csproj non trouvé"
+    echo "✗ Fichier SteamInputPlugin/KSPModSteamInput.csproj non trouvé"
     exit 1
 fi
 

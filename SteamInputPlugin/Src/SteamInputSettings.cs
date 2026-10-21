@@ -6,7 +6,7 @@ using System.Globalization;
 using System.Linq;
 using UnityEngine;
 
-namespace com.github.lhervier.ksp.steaminput
+namespace com.github.lhervier.ksp.mod.steaminput
 {
     public static class UpdatedConfiguration
     {

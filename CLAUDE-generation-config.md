@@ -4,7 +4,7 @@ Comment les `.vdf` sont produits : le problème de la taille et des répétition
 le passage de paramètres à l'inclusion, les variables propres à un contrôleur, les helpers
 handlebars, et la génération de plusieurs contrôleurs.
 
-> Fichier de contexte de **KSP-SteamInputPlugin**. Vue d'ensemble dans [CLAUDE.md](CLAUDE.md).
+> Fichier de contexte de **KSP-Mod-SteamInput**. Vue d'ensemble dans [CLAUDE.md](CLAUDE.md).
 
 
 ## Le problème

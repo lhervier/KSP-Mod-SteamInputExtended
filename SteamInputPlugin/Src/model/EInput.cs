@@ -2,7 +2,7 @@ using System;
 using System.Collections.ObjectModel;
 using com.github.lhervier.ksp.shared;
 
-namespace com.github.lhervier.ksp.steaminput.ui.model
+namespace com.github.lhervier.ksp.mod.steaminput.ui.model
 {
     public sealed class EInput : IEquatable<EInput>
     {

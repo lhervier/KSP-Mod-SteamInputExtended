@@ -1,4 +1,4 @@
-# KSP-SteamInputPlugin — notes de développement
+# KSP-Mod-SteamInput — notes de développement
 
 Ce dossier contient un mod pour Kerbal Space Program (KSP) qui ajoute un support correct de l'API SteamInput. Le jeu la prend déjà en charge, mais les dernières évolutions l'ont cassée. Ce mode désactive donc le plugin officiel, et en démarre un nouveau qui tient compte de ces dernières évolutions.
 

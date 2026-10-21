@@ -1,7 +1,7 @@
-using com.github.lhervier.ksp.steaminput.ui.model;
+using com.github.lhervier.ksp.mod.steaminput.ui.model;
 using com.github.lhervier.ksp.shared.ugui.checkbox;
 
-namespace com.github.lhervier.ksp.steaminput.ui.ugui.menu
+namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.menu
 {
     public class ZoneRowController : BaseSteamInputController
     {

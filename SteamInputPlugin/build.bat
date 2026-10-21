@@ -4,6 +4,6 @@ REM KSP-Shared\tools. The controller-config side of the repo is built separately
 REM (build-config.* at the repo root).
 setlocal
 cd /d "%~dp0"
-set "MOD_CSPROJ=SteamInput.csproj"
+set "MOD_CSPROJ=KSPModSteamInput.csproj"
 call "KSP-Shared\tools\build.bat"
 exit /b %errorlevel%

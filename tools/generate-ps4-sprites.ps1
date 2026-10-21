@@ -2,7 +2,7 @@
 # TMP sprite asset of the plugin UI. Shapes are drawn at 512x512 with anti-aliasing, then
 # downscaled to the target size for a clean result.
 param(
-    [string]$OutDir = "$PSScriptRoot\..\SteamInputPlugin\GameData\SteamInputMod\Textures",
+    [string]$OutDir = "$PSScriptRoot\..\SteamInputPlugin\GameData\KSPModSteamInput\Textures",
     # Power of two: the plugin loads these with mipmaps, POT sizes give clean mip chains.
     [int]$Size = 32
 )

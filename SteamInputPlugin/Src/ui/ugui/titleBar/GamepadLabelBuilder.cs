@@ -1,13 +1,13 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 using TMPro;
-using com.github.lhervier.ksp.steaminput.ui.styles;
-using com.github.lhervier.ksp.steaminput.ui.ugui.sprites;
+using com.github.lhervier.ksp.mod.steaminput.ui.styles;
+using com.github.lhervier.ksp.mod.steaminput.ui.ugui.sprites;
 using UnityEngine.Events;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.styles;
 
-namespace com.github.lhervier.ksp.steaminput.ui.ugui.titleBar
+namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.titleBar
 {
     public class GamepadLabelBuilder : IUGUIBuilder<GamepadLabelController>
     {

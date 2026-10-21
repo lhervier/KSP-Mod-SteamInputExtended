@@ -1,15 +1,15 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
-using com.github.lhervier.ksp.steaminput.model;
-using com.github.lhervier.ksp.steaminput.ui.styles;
-using com.github.lhervier.ksp.steaminput.ui.ugui.sprites;
+using com.github.lhervier.ksp.mod.steaminput.model;
+using com.github.lhervier.ksp.mod.steaminput.ui.styles;
+using com.github.lhervier.ksp.mod.steaminput.ui.ugui.sprites;
 using UnityEngine.Events;
 using System;
 using System.Collections.Generic;
-using com.github.lhervier.ksp.steaminput.ui.model;
+using com.github.lhervier.ksp.mod.steaminput.ui.model;
 
-namespace com.github.lhervier.ksp.steaminput.ui.ugui.menu
+namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.menu
 {
     /// <summary>
     /// Keeps a list of zone rows in sync with the ViewModel's PhysicalZones.

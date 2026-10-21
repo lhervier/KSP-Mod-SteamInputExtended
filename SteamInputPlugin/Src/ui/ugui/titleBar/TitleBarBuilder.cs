@@ -5,7 +5,7 @@ using com.github.lhervier.ksp.shared.ugui.styles;
 using com.github.lhervier.ksp.shared.ugui.button;
 using System.Data;
 
-namespace com.github.lhervier.ksp.steaminput.ui.ugui.titleBar
+namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.titleBar
 {
     public class TitleBarBuilder : IUGUIBuilder<TitleBarController>
     {

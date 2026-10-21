@@ -4,7 +4,7 @@
     <TargetFramework>net472</TargetFramework>
     <RuntimeIdentifiers>win;linux</RuntimeIdentifiers>
     <AssemblyName>SteamInputPlugin.Tests</AssemblyName>
-    <RootNamespace>com.github.lhervier.ksp.steaminput.Tests</RootNamespace>
+    <RootNamespace>com.github.lhervier.ksp.mod.steaminput.Tests</RootNamespace>
     <IsPackable>false</IsPackable>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
@@ -35,7 +35,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SteamInputPlugin\SteamInput.csproj" />
+    <ProjectReference Include="..\SteamInputPlugin\KSPModSteamInput.csproj" />
   </ItemGroup>
 
 </Project>

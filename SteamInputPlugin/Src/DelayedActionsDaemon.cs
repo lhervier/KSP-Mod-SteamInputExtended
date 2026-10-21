@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using com.github.lhervier.ksp.shared;
 using UnityEngine;
 
-namespace com.github.lhervier.ksp.steaminput 
+namespace com.github.lhervier.ksp.mod.steaminput 
 {
 
     // <summary>

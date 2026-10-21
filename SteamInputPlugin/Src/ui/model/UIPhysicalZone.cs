@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using com.github.lhervier.ksp.steaminput.model;
+using com.github.lhervier.ksp.mod.steaminput.model;
 
-namespace com.github.lhervier.ksp.steaminput.ui.model
+namespace com.github.lhervier.ksp.mod.steaminput.ui.model
 {
     public class UIPhysicalZone
     {

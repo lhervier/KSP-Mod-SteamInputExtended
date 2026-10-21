@@ -1,6 +1,6 @@
-using com.github.lhervier.ksp.steaminput.ui.model;
+using com.github.lhervier.ksp.mod.steaminput.ui.model;
 
-namespace com.github.lhervier.ksp.steaminput.model
+namespace com.github.lhervier.ksp.mod.steaminput.model
 {
     public class VdfControllerMappings
     {

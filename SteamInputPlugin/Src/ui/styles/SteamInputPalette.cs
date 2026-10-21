@@ -1,7 +1,7 @@
 using com.github.lhervier.ksp.shared;
 using UnityEngine;
 
-namespace com.github.lhervier.ksp.steaminput.ui.styles
+namespace com.github.lhervier.ksp.mod.steaminput.ui.styles
 {
     public static class SteamInputPalette
     {

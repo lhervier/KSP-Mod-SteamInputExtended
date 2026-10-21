@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using com.github.lhervier.ksp.steaminput.model;
+using com.github.lhervier.ksp.mod.steaminput.model;
 using NUnit.Framework;
 
-namespace com.github.lhervier.ksp.steaminput.Tests
+namespace com.github.lhervier.ksp.mod.steaminput.Tests
 {
     /// <summary>
     /// Covers the layer reading: GetActionLayers (filtered by parent_set_name) and

@@ -1,7 +1,7 @@
 using System;
 using System.Collections.ObjectModel;
 
-namespace com.github.lhervier.ksp.steaminput
+namespace com.github.lhervier.ksp.mod.steaminput
 {
     /// <summary>
     /// Zone physique Steam Input (nom tel qu'apparaît dans le VDF / la config).

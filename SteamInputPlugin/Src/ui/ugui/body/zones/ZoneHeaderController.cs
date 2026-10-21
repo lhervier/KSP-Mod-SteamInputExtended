@@ -1,12 +1,12 @@
 using UnityEngine;
 using TMPro;
-using com.github.lhervier.ksp.steaminput.ui.styles;
-using com.github.lhervier.ksp.steaminput.ui.ugui.sprites;
-using com.github.lhervier.ksp.steaminput.ui.model;
+using com.github.lhervier.ksp.mod.steaminput.ui.styles;
+using com.github.lhervier.ksp.mod.steaminput.ui.ugui.sprites;
+using com.github.lhervier.ksp.mod.steaminput.ui.model;
 using com.github.lhervier.ksp.shared.ugui.styles;
 using com.github.lhervier.ksp.shared.ugui;
 
-namespace com.github.lhervier.ksp.steaminput.ui.ugui.body.zones
+namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.zones
 {
     public class ZoneHeaderController : MonoBehaviour
     {

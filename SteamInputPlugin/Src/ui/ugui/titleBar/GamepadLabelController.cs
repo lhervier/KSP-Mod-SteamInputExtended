@@ -1,11 +1,11 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 using TMPro;
-using com.github.lhervier.ksp.steaminput.ui.styles;
-using com.github.lhervier.ksp.steaminput.ui.ugui.sprites;
+using com.github.lhervier.ksp.mod.steaminput.ui.styles;
+using com.github.lhervier.ksp.mod.steaminput.ui.ugui.sprites;
 using UnityEngine.Events;
 
-namespace com.github.lhervier.ksp.steaminput.ui.ugui.titleBar
+namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.titleBar
 {
     public class GamepadLabelController : BaseSteamInputController
     {

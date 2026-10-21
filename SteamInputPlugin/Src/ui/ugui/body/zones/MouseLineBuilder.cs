@@ -1,12 +1,12 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using com.github.lhervier.ksp.steaminput.ui.styles;
+using com.github.lhervier.ksp.mod.steaminput.ui.styles;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.styles;
 using com.github.lhervier.ksp.shared;
 
-namespace com.github.lhervier.ksp.steaminput.ui.ugui.body.zones
+namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.zones
 {
     /// <summary>
     /// Builds the "Mouse — Free movement" banner (mockup .kmouse-line), shown at the start

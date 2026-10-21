@@ -1,11 +1,11 @@
 using UnityEngine;
 using UnityEngine.UI;
-using com.github.lhervier.ksp.steaminput.ui.styles;
-using com.github.lhervier.ksp.steaminput.ui.ugui.sprites;
+using com.github.lhervier.ksp.mod.steaminput.ui.styles;
+using com.github.lhervier.ksp.mod.steaminput.ui.ugui.sprites;
 using com.github.lhervier.ksp.shared.ugui.styles;
 using com.github.lhervier.ksp.shared.ugui;
 
-namespace com.github.lhervier.ksp.steaminput.ui.ugui.menu
+namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.menu
 {
     public class MenuBuilder : IUGUIBuilder<MenuBuilder.MenuController>
     {
