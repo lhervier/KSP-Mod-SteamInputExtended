@@ -1,13 +1,13 @@
 using UnityEngine;
 using UnityEngine.UI;
-using com.github.lhervier.ksp.mod.steaminput;
-using com.github.lhervier.ksp.mod.steaminput.ui.styles;
-using com.github.lhervier.ksp.mod.steaminput.ui.ugui.sprites;
-using com.github.lhervier.ksp.mod.steaminput.ui.model;
+using com.github.lhervier.ksp.mod.steaminputextended;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.styles;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.sprites;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.model;
 using System;
 using com.github.lhervier.ksp.shared.ugui;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.zones
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.body.zones
 {
     /// <summary>
     /// Displays one UIPhysicalZone:

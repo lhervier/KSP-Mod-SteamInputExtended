@@ -1,15 +1,15 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
-using com.github.lhervier.ksp.mod.steaminput.ui.styles;
-using com.github.lhervier.ksp.mod.steaminput.ui.ugui.sprites;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.styles;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.sprites;
 using System;
-using com.github.lhervier.ksp.mod.steaminput.ui.model;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.model;
 using System.Security.Policy;
 using com.github.lhervier.ksp.shared.ugui.button;
 using com.github.lhervier.ksp.shared.ugui;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.menu
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.menu
 {
     public class ArrowsController : BaseSteamInputController
     {

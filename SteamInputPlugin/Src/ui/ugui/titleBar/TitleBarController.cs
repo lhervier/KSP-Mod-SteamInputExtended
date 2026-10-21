@@ -1,7 +1,7 @@
 using com.github.lhervier.ksp.shared.ugui.button;
 using UnityEngine;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.titleBar
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.titleBar
 {
     public class TitleBarController : MonoBehaviour
     {

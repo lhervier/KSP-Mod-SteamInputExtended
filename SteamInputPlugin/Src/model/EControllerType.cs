@@ -2,7 +2,7 @@ using System;
 using System.Collections.ObjectModel;
 using com.github.lhervier.ksp.shared;
 
-namespace com.github.lhervier.ksp.mod.steaminput.model
+namespace com.github.lhervier.ksp.mod.steaminputextended.model
 {
     public sealed class EControllerType : IEquatable<EControllerType>
     {

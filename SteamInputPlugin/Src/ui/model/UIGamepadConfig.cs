@@ -1,4 +1,4 @@
-namespace com.github.lhervier.ksp.mod.steaminput.ui.model
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.model
 {
     /// <summary>
     /// A controller configuration as shown in the config picker: a display-ready title and

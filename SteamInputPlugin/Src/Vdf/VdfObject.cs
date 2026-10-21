@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace com.github.lhervier.ksp.mod.steaminput.Vdf
+namespace com.github.lhervier.ksp.mod.steaminputextended.Vdf
 {
     /// <summary>
     /// A parsed VDF block: an ordered map from key to value, where a value is a string

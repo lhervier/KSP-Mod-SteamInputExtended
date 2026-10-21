@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
     <RuntimeIdentifiers>win;linux</RuntimeIdentifiers>
-    <AssemblyName>KSPModSteamInput</AssemblyName>
-    <RootNamespace>com.github.lhervier.ksp.mod.steaminput</RootNamespace>
+    <AssemblyName>KSPModSteamInputExtended</AssemblyName>
+    <RootNamespace>com.github.lhervier.ksp.mod.steaminputextended</RootNamespace>
     <OutputType>Library</OutputType>
     <OutputPath>Output\bin</OutputPath>
     <IntermediateOutputPath>Output\obj</IntermediateOutputPath>

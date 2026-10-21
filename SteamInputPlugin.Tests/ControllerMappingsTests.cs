@@ -1,7 +1,7 @@
-using com.github.lhervier.ksp.mod.steaminput.model;
+using com.github.lhervier.ksp.mod.steaminputextended.model;
 using NUnit.Framework;
 
-namespace com.github.lhervier.ksp.mod.steaminput.Tests
+namespace com.github.lhervier.ksp.mod.steaminputextended.Tests
 {
     /// <summary>
     /// Covers the metadata reading at the controller_mappings root:

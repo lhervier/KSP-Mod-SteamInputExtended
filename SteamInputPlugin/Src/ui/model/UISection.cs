@@ -1,6 +1,6 @@
-using com.github.lhervier.ksp.mod.steaminput;
+using com.github.lhervier.ksp.mod.steaminputextended;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.model
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.model
 {
     public class UISection
     {

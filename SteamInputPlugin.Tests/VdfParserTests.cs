@@ -1,9 +1,9 @@
 using System.IO;
 using System.Linq;
-using com.github.lhervier.ksp.mod.steaminput.Vdf;
+using com.github.lhervier.ksp.mod.steaminputextended.Vdf;
 using NUnit.Framework;
 
-namespace com.github.lhervier.ksp.mod.steaminput.Tests
+namespace com.github.lhervier.ksp.mod.steaminputextended.Tests
 {
     /// <summary>
     /// Tests on VdfParser. Most assert on leaf strings and on VdfParseException

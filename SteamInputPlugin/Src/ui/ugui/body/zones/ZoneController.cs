@@ -1,6 +1,6 @@
-using com.github.lhervier.ksp.mod.steaminput.ui.model;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.model;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.zones
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.body.zones
 {
     public class ZoneController : BaseSteamInputController
     {

@@ -1,10 +1,10 @@
 using UnityEngine;
-using com.github.lhervier.ksp.mod.steaminput.ui.styles;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.styles;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.badge;
 using com.github.lhervier.ksp.shared.ugui.styles;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.titleBar
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.titleBar
 {
     public class ActionGroupLabelBuilder : IUGUIBuilder<ActionGroupLabelController>
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace com.github.lhervier.ksp.mod.steaminput.Vdf
+namespace com.github.lhervier.ksp.mod.steaminputextended.Vdf
 {
     public sealed class VdfParseException : Exception
     {

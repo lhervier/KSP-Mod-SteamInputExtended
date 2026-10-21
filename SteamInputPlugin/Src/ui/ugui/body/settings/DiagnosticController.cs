@@ -2,13 +2,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using com.github.lhervier.ksp.mod.steaminput.ui.styles;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.styles;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.badge;
 using com.github.lhervier.ksp.shared.ugui.styles;
 using com.github.lhervier.ksp.shared;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.settings
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.body.settings
 {
     public class DiagnosticController : MonoBehaviour
     {

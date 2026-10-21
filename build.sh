@@ -40,7 +40,7 @@ if [ $? -ne 0 ]; then
     echo "ERREUR: Échec de la construction du plugin"
     exit 1
 fi
-cp "SteamInputPlugin/Release/KSPModSteamInput.zip" "Release/"
+cp "SteamInputPlugin/Release/KSPModSteamInputExtended.zip" "Release/"
 if [ $? -ne 0 ]; then
     echo "ERREUR: Impossible de copier le zip du plugin dans Release/"
     exit 1

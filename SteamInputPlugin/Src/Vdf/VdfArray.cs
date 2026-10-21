@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace com.github.lhervier.ksp.mod.steaminput.Vdf
+namespace com.github.lhervier.ksp.mod.steaminputextended.Vdf
 {
     /// <summary>
     /// An ordered sequence of VDF values, produced when the same key appears several

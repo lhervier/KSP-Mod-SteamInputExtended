@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using com.github.lhervier.ksp.mod.steaminput.model;
+using com.github.lhervier.ksp.mod.steaminputextended.model;
 using NUnit.Framework;
 
-namespace com.github.lhervier.ksp.mod.steaminput.Tests
+namespace com.github.lhervier.ksp.mod.steaminputextended.Tests
 {
     /// <summary>
     /// Covers the preset / physical-zone reading: GetPresetZones (incl. modeshift handling)

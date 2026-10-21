@@ -1,9 +1,9 @@
 using com.github.lhervier.ksp.shared.ugui.scrollableview;
-using com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.cheatsheet;
-using com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.settings;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.body.cheatsheet;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.body.settings;
 using UnityEngine;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.body
 {
     /// <summary>
     /// Drives the body's two views: shows the settings screen or the scrollable cheat sheet depending on

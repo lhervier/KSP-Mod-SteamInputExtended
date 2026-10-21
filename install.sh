@@ -3,7 +3,7 @@ set -e
 
 echo ""
 echo "==========================================="
-echo "Installation du mod KSPModSteamInput pour KSP"
+echo "Installation du mod KSPModSteamInputExtended pour KSP"
 echo "==========================================="
 
 echo ""

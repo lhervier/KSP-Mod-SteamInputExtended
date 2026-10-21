@@ -1,6 +1,6 @@
 using System.Text;
 
-namespace com.github.lhervier.ksp.mod.steaminput.Vdf
+namespace com.github.lhervier.ksp.mod.steaminputextended.Vdf
 {
     internal static class VdfStringDecoder
     {

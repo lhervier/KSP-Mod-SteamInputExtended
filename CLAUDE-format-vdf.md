@@ -3,7 +3,7 @@
 La structure interne d'un fichier de configuration de contrôleur : ce que sont les bindings, inputs,
 groups, presets, le mode shift et les layers, et comment ils se référencent entre eux.
 
-> Fichier de contexte de **KSP-Mod-SteamInput**. Vue d'ensemble dans [CLAUDE.md](CLAUDE.md).
+> Fichier de contexte de **KSP-Mod-SteamInputExtended**. Vue d'ensemble dans [CLAUDE.md](CLAUDE.md).
 
 ## Les quatre objets d'une configuration
 

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.model
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.model
 {
     public sealed class EActivator : IEquatable<EActivator>
     {

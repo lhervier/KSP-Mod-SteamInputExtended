@@ -4,10 +4,10 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.Linq;
 using UnityEngine.SceneManagement;
-using com.github.lhervier.ksp.mod.steaminput.model;
+using com.github.lhervier.ksp.mod.steaminputextended.model;
 using com.github.lhervier.ksp.shared;
 
-namespace com.github.lhervier.ksp.mod.steaminput 
+namespace com.github.lhervier.ksp.mod.steaminputextended 
 {
     public class ActionGroupDaemon : MonoBehaviour 
     {

@@ -2,14 +2,14 @@ using System;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using com.github.lhervier.ksp.mod.steaminput.ui.model;
-using com.github.lhervier.ksp.mod.steaminput.ui.styles;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.model;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.styles;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.styles;
 using com.github.lhervier.ksp.shared.ugui.combo.itemcontent;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.selector
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.body.selector
 {
     /// <summary>
     /// Builds a config picker item: a title and, for a real config, the uppercased controller type.

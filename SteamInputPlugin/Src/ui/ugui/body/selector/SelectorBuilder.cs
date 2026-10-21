@@ -1,13 +1,13 @@
 using UnityEngine;
 using UnityEngine.UI;
-using com.github.lhervier.ksp.mod.steaminput.ui.styles;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.styles;
 using com.github.lhervier.ksp.shared.ugui;
 using com.github.lhervier.ksp.shared.ugui.styles;
 using com.github.lhervier.ksp.shared.ugui.sprites;
 using com.github.lhervier.ksp.shared.ugui.button;
 using com.github.lhervier.ksp.shared.ugui.combo;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.selector
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.body.selector
 {
     /// <summary>
     /// Config picker shown at the top of the body: a shared combobox listing the available configs

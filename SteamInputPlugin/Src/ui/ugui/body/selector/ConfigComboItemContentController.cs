@@ -1,8 +1,8 @@
 using TMPro;
-using com.github.lhervier.ksp.mod.steaminput.ui.styles;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.styles;
 using com.github.lhervier.ksp.shared.ugui.combo.itemcontent;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.selector
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.body.selector
 {
     /// <summary>
     /// Combo item content for a controller config: a title line (plus an optional controller-type

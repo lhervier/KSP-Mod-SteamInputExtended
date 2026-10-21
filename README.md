@@ -60,7 +60,7 @@ To view logs in near real time, open the debug console (**Alt+F12**), go to **De
 
 ### 2. Install the plugin
 
-Extract the plugin into `GameData/SteamInput` inside your KSP install.
+Extract the plugin into `GameData/KSPModSteamInputExtended` inside your KSP install.
 
 ![plugin files](doc/plugin.png)
 
@@ -105,9 +105,9 @@ If something goes wrong:
 
 1. Steam is running and KSP is started from Steam.
 2. VDF files are in the paths described above.
-3. The plugin files are under `GameData/SteamInput`.
+3. The plugin files are under `GameData/KSPModSteamInputExtended`.
 4. The controller is connected and visible to Steam.
-5. Check `KSP.log` for lines prefixed with `[SteamInput]`; increase the log level in-game if needed.
+5. Check `KSP.log` for lines prefixed with `[KSPModSteamInputExtended]`; increase the log level in-game if needed.
 
 #### Xbox Elite Controller
 
@@ -129,7 +129,7 @@ On Linux, non–US English keyboard layouts (e.g. non-QWERTY) may cause issues; 
 
 ## Support
 
-Issues, feature requests, and contributions: [GitHub repository](https://github.com/lhervier/SteamInputConfig).
+Issues, feature requests, and contributions: [GitHub repository](https://github.com/lhervier/KSP-Mod-SteamInputExtended).
 
 ## Building from source
 
@@ -138,7 +138,7 @@ Issues, feature requests, and contributions: [GitHub repository](https://github.
 The shared UI code lives in the [`KSP-Shared`](https://github.com/lhervier/KSP-Shared) submodule and is compiled directly into the plugin, so its sources must be present before building. Clone recursively:
 
 ```bash
-git clone --recurse-submodules https://github.com/lhervier/KSP-Mod-SteamInput.git
+git clone --recurse-submodules https://github.com/lhervier/KSP-Mod-SteamInputExtended.git
 ```
 
 If you already cloned without `--recurse-submodules`, initialize the submodules afterwards:

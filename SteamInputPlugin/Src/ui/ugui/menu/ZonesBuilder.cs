@@ -1,16 +1,16 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
-using com.github.lhervier.ksp.mod.steaminput.model;
-using com.github.lhervier.ksp.mod.steaminput.ui.styles;
-using com.github.lhervier.ksp.mod.steaminput.ui.ugui.sprites;
+using com.github.lhervier.ksp.mod.steaminputextended.model;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.styles;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.sprites;
 using UnityEngine.Events;
 using System;
 using System.Collections.Generic;
-using com.github.lhervier.ksp.mod.steaminput.ui.model;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.model;
 using com.github.lhervier.ksp.shared.ugui;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.menu
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.menu
 {
     public class ZonesBuilder : IUGUIBuilder<ZonesController>
     {

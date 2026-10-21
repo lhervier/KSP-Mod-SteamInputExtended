@@ -1,4 +1,4 @@
-namespace com.github.lhervier.ksp.mod.steaminput.model
+namespace com.github.lhervier.ksp.mod.steaminputextended.model
 {
     public class VdfAction
     {

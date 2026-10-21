@@ -3,18 +3,18 @@ using System;
 using System.Collections;
 using System.Reflection;
 using KSP.UI.Screens;
-using com.github.lhervier.ksp.mod.steaminput.ui;
-using com.github.lhervier.ksp.mod.steaminput.ui.ugui.titleBar;
-using com.github.lhervier.ksp.mod.steaminput.ui.ugui.body;
-using com.github.lhervier.ksp.mod.steaminput.ui.ugui.overlays;
-using com.github.lhervier.ksp.mod.steaminput.ui.ugui.sprites;
-using com.github.lhervier.ksp.mod.steaminput.ui.styles;
-using com.github.lhervier.ksp.mod.steaminput.model;
+using com.github.lhervier.ksp.mod.steaminputextended.ui;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.titleBar;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.body;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.overlays;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.sprites;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.styles;
+using com.github.lhervier.ksp.mod.steaminputextended.model;
 using com.github.lhervier.ksp.shared;
 using com.github.lhervier.ksp.shared.ugui.sprites;
 using com.github.lhervier.ksp.shared.ugui.popup;
 
-namespace com.github.lhervier.ksp.mod.steaminput 
+namespace com.github.lhervier.ksp.mod.steaminputextended 
 {
     [KSPAddon(KSPAddon.Startup.PSystemSpawn, true)]
     public class Mod : MonoBehaviour 
@@ -463,7 +463,7 @@ namespace com.github.lhervier.ksp.mod.steaminput
             PopupDialog.SpawnPopupDialog(
                 new Vector2(0.5f, 0.5f), 
                 new Vector2(0.5f, 0.5f),
-                "KSPModSteamInput_ControllerError",
+                "KSPModSteamInputExtended_ControllerError",
                 "SteamInput Mod",
                 "SteamInput is not working properly.\n\n" +
                 "    Error is : " + error + "\n\n" +

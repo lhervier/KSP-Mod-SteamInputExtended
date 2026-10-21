@@ -1,10 +1,10 @@
 using System;
 using System.Reflection;
 using UnityEngine.SceneManagement;
-using com.github.lhervier.ksp.mod.steaminput.model;
+using com.github.lhervier.ksp.mod.steaminputextended.model;
 using com.github.lhervier.ksp.shared;
 
-namespace com.github.lhervier.ksp.mod.steaminput 
+namespace com.github.lhervier.ksp.mod.steaminputextended 
 {
     // <summary>
     //  This class is a context daemon that detects when the game is in FreeIVA mode

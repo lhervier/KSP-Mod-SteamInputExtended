@@ -4,7 +4,7 @@ using com.github.lhervier.ksp.shared.ugui.combo;
 using com.github.lhervier.ksp.shared;
 using System;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.body.settings
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.body.settings
 {
     public class SettingsController : MonoBehaviour
     {

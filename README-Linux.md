@@ -79,7 +79,7 @@ npm --version
    recursively:
 
    ```bash
-   git clone --recurse-submodules https://github.com/lhervier/KSP-Mod-SteamInput.git
+   git clone --recurse-submodules https://github.com/lhervier/KSP-Mod-SteamInputExtended.git
    ```
 
    …or, if you already cloned without `--recurse-submodules`, initialize them afterwards:
@@ -167,7 +167,7 @@ ls "$KSPDIR/KSP_x64_Data/Managed/Assembly-CSharp.dll"
 Build manually (adjust `KSP_DATA_DIR` if you use `KSP_Data`):
 
 ```bash
-dotnet build SteamInputPlugin/KSPModSteamInput.csproj -p:KSP_DATA_DIR="$KSPDIR/KSP_x64_Data"
+dotnet build SteamInputPlugin/KSPModSteamInputExtended.csproj -p:KSP_DATA_DIR="$KSPDIR/KSP_x64_Data"
 ```
 
 Or use:

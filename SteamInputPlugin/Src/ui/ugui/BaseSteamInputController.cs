@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.ugui
 {
     public abstract class BaseSteamInputController : MonoBehaviour
     {

@@ -1,8 +1,8 @@
 using UnityEngine;
-using com.github.lhervier.ksp.mod.steaminput.ui.ugui.menu;
+using com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.menu;
 using com.github.lhervier.ksp.shared.ugui.overlay;
 
-namespace com.github.lhervier.ksp.mod.steaminput.ui.ugui.overlays
+namespace com.github.lhervier.ksp.mod.steaminputextended.ui.ugui.overlays
 {
     /// <summary>
     /// Drives the popup overlays: the drop-down menu and the full-window click trap behind it. Both are

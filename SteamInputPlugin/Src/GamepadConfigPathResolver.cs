@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using com.github.lhervier.ksp.shared;
 
-namespace com.github.lhervier.ksp.mod.steaminput
+namespace com.github.lhervier.ksp.mod.steaminputextended
 {
     /// <summary>
     /// Builds the absolute path to a Gamepad Config VDF from a config base name
