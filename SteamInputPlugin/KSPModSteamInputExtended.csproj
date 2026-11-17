@@ -5,6 +5,8 @@
     <RuntimeIdentifiers>win;linux</RuntimeIdentifiers>
     <AssemblyName>KSPModSteamInputExtended</AssemblyName>
     <RootNamespace>com.github.lhervier.ksp.mod.steaminputextended</RootNamespace>
+    <Version>2.1.2-dev</Version>
+    <Description>SteamInput Plugin for KSP</Description>
     <OutputType>Library</OutputType>
     <OutputPath>Output\bin</OutputPath>
     <IntermediateOutputPath>Output\obj</IntermediateOutputPath>
@@ -14,8 +16,6 @@
     <DebugSymbols>true</DebugSymbols>
     <Optimize>false</Optimize>
     <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
-    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-    <Deterministic>false</Deterministic>
   </PropertyGroup>
 
   <ItemGroup>
