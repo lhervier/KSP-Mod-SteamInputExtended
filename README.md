@@ -121,7 +121,7 @@ If something goes wrong:
 2. Map those extra inputs as described in **System Requirements**.
 3. You can always author a custom Steam Input configuration for your hardware.
 
-## Known issues
+## Work in progress
 
 Separate VDF files are provided per language even though VDF can carry localization; getting Steam’s localization path to work reliably is still **TODO** — contributions welcome.
 
