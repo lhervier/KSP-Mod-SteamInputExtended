@@ -43,7 +43,7 @@ echo.
 echo ===========================================
 echo Installing config
 echo ===========================================
-cmd /c "install-config.bat"
+cmd /c ".\install-config.bat"
 if errorlevel 1 (
     echo ERROR: Failed to install config
     exit /b 1

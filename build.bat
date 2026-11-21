@@ -48,7 +48,7 @@ echo.
 echo ===========================================
 echo Building config
 echo ===========================================
-cmd /c "build-config.bat"
+cmd /c ".\build-config.bat"
 if errorlevel 1 (
     echo ERROR: Failed to build config
     exit /b 1
